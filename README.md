@@ -4,7 +4,7 @@ A simple and modern **Random Password Generator** built with **React.js**.
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 - 🔒 Generate strong, random passwords
 - 📋 Copy password to clipboard easily
 - 🎨 Clean and responsive UI
